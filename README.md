@@ -15,6 +15,7 @@ This application provides a way to manage group memberships for AD that don't ha
 - Add "app_TEAM_Memberships" to Internal Systems
 - Set "ID" as Key
 - Set "Expiration_Date" as date "yyyy-mm-dd (local)"
+- Install "users-rays-solid.svg" image in ProgramData images folder
 - Restart service
 
 # NIM Docs
