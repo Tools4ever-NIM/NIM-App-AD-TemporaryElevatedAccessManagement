@@ -1,1 +1,0 @@
-{"jobdef_name":"ADADHOC_Memberships_Sync","meta_config":{"created_date_time":1741625776758,"created_by_id":10,"modified_date_time":1741744332290,"modified_by_id":2,"notes":"","tags":["app_ADADHOCGroupMembership"]},"tasks":[{"type":"crud","name":"ADADHOC_Membership_Delete","enabled":true,"threshold":10}]}
